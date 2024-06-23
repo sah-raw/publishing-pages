@@ -12,7 +12,7 @@ url: "https://sah-raw.github.io/publishing-pages.github.io/"
 # Then write "/bar/". Otherwise, remove this line.
 baseurl: ""
 
-theme: "/duo"
+theme: "duo"
 
 # GitHub IDs
 GitHub:
