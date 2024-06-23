@@ -1,4 +1,5 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+![](https://chibicode.github.io/duo/static/images/endlesswave.jpg)
+Image credit: Ashely Bickerton
 
 **Publishing Pages** is a simple website using a [Jekyll](http://jekyllrb.com/) theme.
 
