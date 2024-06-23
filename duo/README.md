@@ -1,4 +1,4 @@
-![](https://chibicode.github.io/duo/static/images/Endless_Wave.jpg)
+![](https://github.com/sah-raw/publishing-pages.github.io/blob/main/duo/static/images/Endless_Wave.jpg)
 Image credit: Ashely Bickerton
 
 **Publishing Pages** is a simple website using a [Jekyll](http://jekyllrb.com/) theme.
