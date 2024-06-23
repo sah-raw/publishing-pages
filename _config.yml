@@ -2,21 +2,20 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Daily Tarot
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://sah-raw.github.io/publishing-pages.github.io/"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+baseurl: "https://sah-raw.github.io/"
 
 # Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
+IG:
+  username: "sah_raw"
+
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -25,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: "static/images/Endless_Wave.jpg"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
